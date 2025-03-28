@@ -2,4 +2,4 @@
 
 Liste des projets :
 - Hydra : têtes pilotés
-- Xing & Yang : contrôle de relais via RaspberryPi/RockPi...
+- Xing & Yang : contrôle de relais via RaspberryPi/RockPi sur réseau
